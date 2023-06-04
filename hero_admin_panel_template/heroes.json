@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "b5e3ca96-8551-4eb0-a11b-232f5ba34bc0",
+      "name": " ук",
+      "description": " ррор",
+      "element": "water"
+    },
+    {
+      "id": "fc23fc63-c360-4404-9da1-8a7c99355629",
+      "name": "Mikail",
+      "description": "I can fly",
+      "element": "fire"
+    },
+    {
+      "id": "36228c25-b560-4f1a-9855-680484150927",
+      "name": "Sula",
+      "description": "run",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
